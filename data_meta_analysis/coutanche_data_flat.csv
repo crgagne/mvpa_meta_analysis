@@ -1,0 +1,205 @@
+accuracy,chance,decoding_strenth,PID,Visual_Region
+52.0,25.0,0.36,1,Ventral Temporal Regions
+47.0,25.0,0.29,1,Ventral Temporal Regions
+37.0,33.3,0.06,1,Ventral Temporal Regions
+56.6,50.0,0.13,2,Ventral Temporal Regions
+21.0,16.7,0.05,3,Ventral Temporal Regions
+32.0,16.7,0.18,3,Ventral Temporal Regions
+68.3,14.6,0.63,4,Ventral Temporal Regions
+57.3,50.0,0.15,5,Ventral Temporal Regions
+84.6,50.0,0.69,7,Ventral Temporal Regions
+81.8,50.0,0.64,7,Ventral Temporal Regions
+84.6,12.5,0.82,9,Ventral Temporal Regions
+70.3,50.0,0.41,11,Ventral Temporal Regions
+71.0,50.0,0.42,11,Ventral Temporal Regions
+36.0,33.0,0.04,12,Ventral Temporal Regions
+55.0,33.0,0.33,14,Ventral Temporal Regions
+70.0,50.0,0.40,15,Ventral Temporal Regions
+55.0,50.0,0.10,15,Ventral Temporal Regions
+56.0,50.0,0.12,15,Ventral Temporal Regions
+71.0,50.0,0.42,17,Ventral Temporal Regions
+62.5,50.0,0.25,18,Ventral Temporal Regions
+45.0,25.0,0.27,19,Ventral Temporal Regions
+43.0,25.0,0.24,19,Ventral Temporal Regions
+51.0,25.0,0.35,19,Ventral Temporal Regions
+43.0,10.0,0.37,20,Ventral Temporal Regions
+65.0,50.0,0.30,22,Ventral Temporal Regions
+65.0,50.0,0.30,22,Ventral Temporal Regions
+69.0,50.0,0.38,23,Ventral Temporal Regions
+58.0,50.0,0.16,23,Ventral Temporal Regions
+75.8,50.0,0.52,23,Ventral Temporal Regions
+81.2,50.0,0.62,24,Ventral Temporal Regions
+76.7,50.0,0.53,28,Ventral Temporal Regions
+75.6,50.0,0.51,28,Ventral Temporal Regions
+56.5,50.0,0.13,29,Ventral Temporal Regions
+44.0,10.0,0.38,30,Ventral Temporal Regions
+18.0,16.7,0.02,31,Ventral Temporal Regions
+16.0,16.7,-0.01,31,Ventral Temporal Regions
+32.0,16.7,0.18,31,Ventral Temporal Regions
+85.0,50.0,0.70,32,Ventral Temporal Regions
+38.7,25.0,0.18,33,Ventral Temporal Regions
+72.0,50.0,0.44,34,Ventral Temporal Regions
+71.9,50.0,0.44,35,Ventral Temporal Regions
+72.5,50.0,0.45,35,Ventral Temporal Regions
+93.7,50.0,0.87,35,Ventral Temporal Regions
+89.0,50.0,0.78,36,Ventral Temporal Regions
+90.0,50.0,0.80,36,Ventral Temporal Regions
+52.7,50.0,0.05,37,Ventral Temporal Regions
+29.0,16.7,0.15,40,Ventral Temporal Regions
+68.5,20.0,0.61,42,Ventral Temporal Regions
+24.0,16.7,0.09,43,Ventral Temporal Regions
+31.0,16.7,0.17,43,Ventral Temporal Regions
+53.0,33.3,0.30,44,Ventral Temporal Regions
+65.5,50.0,0.31,46,Ventral Temporal Regions
+64.8,50.0,0.30,46,Ventral Temporal Regions
+69.5,50.0,0.39,48,Ventral Temporal Regions
+68.0,50.0,0.36,48,Ventral Temporal Regions
+66.5,50.0,0.33,48,Ventral Temporal Regions
+75.0,50.0,0.50,49,Ventral Temporal Regions
+65.4,50.0,0.31,52,Ventral Temporal Regions
+64.3,50.0,0.29,52,Ventral Temporal Regions
+71.6,25.0,0.62,53,Ventral Temporal Regions
+89.0,33.3,0.84,55,Ventral Temporal Regions
+75.3,16.7,0.70,56,Ventral Temporal Regions
+69.5,45.5,0.44,57,Ventral Temporal Regions
+63.5,45.0,0.34,57,Ventral Temporal Regions
+65.8,45.0,0.38,57,Ventral Temporal Regions
+71.3,33.3,0.57,58,Ventral Temporal Regions
+86.0,50.0,0.72,60,Ventral Temporal Regions
+64.5,50.0,0.29,62,Ventral Temporal Regions
+84.8,50.0,0.70,63,Ventral Temporal Regions
+74.0,50.0,0.48,64,Ventral Temporal Regions
+81.0,25.0,0.75,66,Ventral Temporal Regions
+100.0,50.0,1.00,67,Ventral Temporal Regions
+57.5,50.0,0.15,68,Ventral Temporal Regions
+66.8,25.0,0.56,69,Ventral Temporal Regions
+70.3,50.0,0.41,70,Ventral Temporal Regions
+73.0,50.0,0.46,71,Ventral Temporal Regions
+75.0,50.0,0.50,71,Ventral Temporal Regions
+68.0,50.0,0.36,71,Ventral Temporal Regions
+57.6,50.0,0.15,74,Ventral Temporal Regions
+53.3,50.0,0.07,74,Ventral Temporal Regions
+64.9,14.3,0.59,76,Ventral Temporal Regions
+86.0,50.0,0.72,78,Ventral Temporal Regions
+96.7,50.0,0.93,79,Ventral Temporal Regions
+75.0,50.0,0.50,80,Ventral Temporal Regions
+34.0,25.0,0.12,81,Ventral Temporal Regions
+29.0,20.0,0.11,82,Ventral Temporal Regions
+26.0,20.0,0.08,82,Ventral Temporal Regions
+89.0,12.5,0.87,83,Ventral Temporal Regions
+76.6,50.0,0.53,84,Ventral Temporal Regions
+84.7,50.0,0.69,85,Ventral Temporal Regions
+50.0,20.0,0.38,88,Ventral Temporal Regions
+44.5,29.2,0.22,1,Visual Cortex
+56.8,50.0,0.14,2,Visual Cortex
+55.8,50.0,0.12,2,Visual Cortex
+56.3,50.0,0.13,2,Visual Cortex
+52.6,50.0,0.05,2,Visual Cortex
+27.0,16.7,0.12,3,Visual Cortex
+24.0,16.7,0.09,3,Visual Cortex
+24.0,16.7,0.09,3,Visual Cortex
+76.7,50.0,0.53,5,Visual Cortex
+81.7,50.0,0.63,5,Visual Cortex
+72.3,50.0,0.45,5,Visual Cortex
+56.3,50.0,0.13,5,Visual Cortex
+51.0,25.0,0.35,6,Visual Cortex
+52.0,25.0,0.36,6,Visual Cortex
+46.0,25.0,0.28,6,Visual Cortex
+89.0,50.0,0.78,8,Visual Cortex
+90.0,50.0,0.80,8,Visual Cortex
+85.0,50.0,0.70,8,Visual Cortex
+70.0,50.0,0.40,8,Visual Cortex
+68.8,50.0,0.38,10,Visual Cortex
+68.4,50.0,0.37,10,Visual Cortex
+65.1,50.0,0.30,10,Visual Cortex
+64.5,50.0,0.29,11,Visual Cortex
+40.5,33.0,0.11,12,Visual Cortex
+40.5,33.0,0.11,12,Visual Cortex
+37.1,33.0,0.06,12,Visual Cortex
+33.8,33.0,0.01,12,Visual Cortex
+59.5,50.0,0.19,13,Visual Cortex
+83.0,33.0,0.75,14,Visual Cortex
+79.0,33.0,0.69,14,Visual Cortex
+75.0,33.0,0.63,14,Visual Cortex
+90.0,50.0,0.80,16,Visual Cortex
+60.7,50.0,0.21,18,Visual Cortex
+50.0,25.0,0.33,19,Visual Cortex
+68.0,10.0,0.64,20,Visual Cortex
+66.0,10.0,0.62,20,Visual Cortex
+55.0,50.0,0.10,21,Visual Cortex
+65.0,50.0,0.30,22,Visual Cortex
+61.0,50.0,0.22,23,Visual Cortex
+92.0,50.0,0.84,24,Visual Cortex
+43.0,12.5,0.35,25,Visual Cortex
+38.0,12.5,0.29,25,Visual Cortex
+31.0,12.5,0.21,25,Visual Cortex
+22.0,12.5,0.11,25,Visual Cortex
+72.0,33.0,0.58,26,Visual Cortex
+87.0,50.0,0.74,27,Visual Cortex
+51.6,50.0,0.03,28,Visual Cortex
+66.0,50.0,0.32,29,Visual Cortex
+27.0,16.7,0.12,31,Visual Cortex
+95.0,50.0,0.90,32,Visual Cortex
+67.0,50.0,0.34,35,Visual Cortex
+60.0,50.0,0.20,37,Visual Cortex
+82.5,16.7,0.79,38,Visual Cortex
+52.3,50.0,0.05,39,Visual Cortex
+22.0,16.7,0.06,40,Visual Cortex
+21.0,16.7,0.05,40,Visual Cortex
+24.4,16.7,0.09,40,Visual Cortex
+22.0,16.7,0.06,40,Visual Cortex
+53.0,25.0,0.37,41,Visual Cortex
+26.0,16.7,0.11,43,Visual Cortex
+41.0,33.3,0.12,44,Visual Cortex
+41.0,33.3,0.12,44,Visual Cortex
+42.0,33.3,0.13,44,Visual Cortex
+42.0,33.3,0.13,44,Visual Cortex
+75.5,50.0,0.51,45,Visual Cortex
+63.8,50.0,0.28,46,Visual Cortex
+54.0,6.3,0.51,47,Visual Cortex
+67.5,50.0,0.35,48,Visual Cortex
+67.0,50.0,0.34,48,Visual Cortex
+67.5,50.0,0.35,48,Visual Cortex
+67.0,50.0,0.34,48,Visual Cortex
+64.0,33.3,0.46,50,Visual Cortex
+56.0,33.3,0.34,50,Visual Cortex
+55.0,33.3,0.33,50,Visual Cortex
+80.0,50.0,0.60,51,Visual Cortex
+75.0,50.0,0.50,51,Visual Cortex
+71.0,50.0,0.42,51,Visual Cortex
+80.0,50.0,0.60,52,Visual Cortex
+65.0,50.0,0.30,52,Visual Cortex
+64.0,50.0,0.28,52,Visual Cortex
+56.8,25.0,0.42,53,Visual Cortex
+80.0,50.0,0.60,54,Visual Cortex
+81.0,50.0,0.62,54,Visual Cortex
+73.0,50.0,0.46,54,Visual Cortex
+62.0,50.0,0.24,54,Visual Cortex
+45.0,16.7,0.34,56,Visual Cortex
+34.4,25.0,0.13,57,Visual Cortex
+88.0,50.0,0.76,59,Visual Cortex
+51.6,50.0,0.03,61,Visual Cortex
+94.0,50.0,0.88,63,Visual Cortex
+62.0,50.0,0.24,65,Visual Cortex
+80.0,25.0,0.73,66,Visual Cortex
+89.0,50.0,0.78,67,Visual Cortex
+52.5,50.0,0.05,68,Visual Cortex
+57.5,50.0,0.15,70,Visual Cortex
+30.0,6.3,0.25,72,Visual Cortex
+79.5,33.3,0.69,73,Visual Cortex
+57.3,50.0,0.15,74,Visual Cortex
+77.0,50.0,0.54,75,Visual Cortex
+72.0,50.0,0.44,75,Visual Cortex
+77.5,50.0,0.55,75,Visual Cortex
+52.1,50.0,0.04,77,Visual Cortex
+52.4,50.0,0.05,77,Visual Cortex
+51.9,50.0,0.04,77,Visual Cortex
+49.6,50.0,-0.01,77,Visual Cortex
+83.0,50.0,0.66,78,Visual Cortex
+53.3,50.0,0.07,79,Visual Cortex
+73.0,50.0,0.46,80,Visual Cortex
+63.4,25.0,0.51,81,Visual Cortex
+32.0,20.0,0.15,82,Visual Cortex
+53.0,50.0,0.06,86,Visual Cortex
+59.3,50.0,0.19,87,Visual Cortex
+25.0,20.0,0.06,88,Visual Cortex

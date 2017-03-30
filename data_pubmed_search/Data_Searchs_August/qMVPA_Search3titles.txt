@@ -1,0 +1,379 @@
+Atir-Sharon,Tali;Gilboa,Asaf;Hazan,Hananel;Koilis,Ester;Manevitz,Larry M;(2015)Decoding the Formation of New Semantics: MVPA Investigation of Rapid Neocortical Plasticity during Associative Encoding through Fast Mapping.
+Shi,Yingchao;Zeng,Weiming;Wang,Nizhuan;Wang,Shujiang;Huang,Zhijian;(2015)Early warning for human mental sub-health based on fMRI data analysis: an example from a seafarers' resting-data study.
+Lee Masson,Haemy;Bulthe,Jessica;Op de Beeck,Hans P;Wallraven,Christian;(2015)Visual and Haptic Shape Processing in the Human Brain: Unisensory Processing, Multisensory Convergence, and Top-Down Influences.
+Anderson,Andrew James;Bruni,Elia;Lopopolo,Alessandro;Poesio,Massimo;Baroni,Marco;(2015)Reading visually embodied meaning from the brain: Visually grounded computational models decode visual-object mental imagery induced by written text.
+Zhang,Huaijian;Chavarriaga,Ricardo;Millan,Jose Del R;(2015)Discriminant brain connectivity patterns of performance monitoring at average and single-trial levels.
+Evans,Samuel;Davis,Matthew H;(2015)Hierarchical Organization of Auditory and Motor Representations in Speech Perception: Evidence from Searchlight Similarity Analysis.
+Handjaras,Giacomo;Bernardi,Giulio;Benuzzi,Francesca;Nichelli,Paolo F;Pietrini,Pietro;Ricciardi,Emiliano;(2015)A topographical organization for action representation in the human brain.
+Karlsson Wirebring,Linnea;Wiklund-Hornqvist,Carola;Eriksson,Johan;Andersson,Micael;Jonsson,Bert;Nyberg,Lars;(2015)Lesser Neural Pattern Similarity across Repeated Tests Is Associated with Better Long-Term Memory Retention.
+Gonzalez-Castillo,Javier;Hoy,Colin W;Handwerker,Daniel A;Robinson,Meghan E;Buchanan,Laura C;Saad,Ziad S;Bandettini,Peter A;(2015)Tracking ongoing cognition in individuals using brief, whole-brain functional connectivity patterns.
+Kogler,Lydia;Muller,Veronika I;Chang,Amy;Eickhoff,Simon B;Fox,Peter T;Gur,Ruben C;Derntl,Birgit;(2015)Psychosocial versus physiological stress - Meta-analyses on deactivations and activations of the neural correlates of stress reactions.
+Lima,Cesar F;Lavan,Nadine;Evans,Samuel;Agnew,Zarinah;Halpern,Andrea R;Shanmugalingam,Pradheep;Meekings,Sophie;Boebinger,Dana;Ostarek,Markus;McGettigan,Carolyn;Warren,Jane E;Scott,Sophie K;(2015)Feel the Noise: Relating Individual Differences in Auditory Imagery to the Structure and Function of Sensorimotor Systems.
+Schwedt,Todd J;Chong,Catherine D;Wu,Teresa;Gaw,Nathan;Fu,Yinlin;Li,Jing;(2015)Accurate Classification of Chronic Migraine via Brain Magnetic Resonance Imaging.
+Beaty,Roger E;Benedek,Mathias;Kaufman,Scott Barry;Silvia,Paul J;(2015)Default and Executive Network Coupling Supports Creative Idea Production.
+Breckel,Thomas P K;Giessing,Carsten;Gieseler,Anja;Querbach,Sarah;Reuter,Martin;Thiel,Christiane M;(2015)Nicotinergic Modulation of Attention-Related Neural Activity Differentiates Polymorphisms of DRD2 and CHRNA4 Receptor Genes.
+Kim,Junsuk;Chung,Yoon Gi;Park,Jang-Yeon;Chung,Soon-Cheol;Wallraven,Christian;Bulthoff,Heinrich H;Kim,Sung-Phil;(2015)Decoding Accuracy in Supplementary Motor Cortex Correlates with Perceptual Sensitivity to Tactile Roughness.
+Seger,Carol A;Braunlich,Kurt;Wehe,Hillary S;Liu,Zhiya;(2015)Generalization in category learning: the roles of representational and decisional uncertainty.
+Yamamoto,Hiroki;(2015)[Human Brain Representations of Haptic and Visual Textures].
+Woolgar,Alexandra;Afshar,Soheil;Williams,Mark A;Rich,Anina N;(2015)Flexible Coding of Task Rules in Frontoparietal Cortex: An Adaptive System for Flexible Cognitive Control.
+Halai,Ajay;Parkes,Laura M;Welbourne,Stephen;(2015)Dual-echo fMRI can detect activations in inferior temporal lobe during intelligible speech comprehension.
+Kemmer,Phebe B;Guo,Ying;Wang,Yikai;Pagnoni,Giuseppe;(2015)Network-based characterization of brain functional connectivity in Zen practitioners.
+Wang,Yida;Cohen,Jonathan D;Li,Kai;Turk-Browne,Nicholas B;(2015)Full correlation matrix analysis (FCMA): An unbiased method for task-related functional connectivity.
+Salti,Moti;Monto,Simo;Charles,Lucie;King,Jean-Remi;Parkkonen,Lauri;Dehaene,Stanislas;(2015)Distinct cortical codes and temporal dynamics for conscious and unconscious percepts.
+Johnson,Matthew R;McCarthy,Gregory;Muller,Kathleen A;Brudner,Samuel N;Johnson,Marcia K;(2015)Electrophysiological Correlates of Refreshing: Event-related Potentials Associated with Directing Reflective Attention to Face, Scene, or Word Representations.
+Qiao,Jianping;Wang,Zhishun;Geronazzo-Alman,Lupo;Amsel,Lawrence;Duarte,Cristiane;Lee,Seonjoo;Musa,George;Long,Jun;He,Xiaofu;Doan,Thao;Hirsch,Joy;Hoven,Christina W;(2015)Brain activity classifies adolescents with and without a familial history of substance use disorders.
+Chan,Jason L;Kucyi,Aaron;DeSouza,Joseph F X;(2015)Stable Task Representations under Attentional Load Revealed with Multivariate Pattern Analysis of Human Brain Activity.
+Saarimaki,Heini;Gotsopoulos,Athanasios;Jaaskelainen,Iiro P;Lampinen,Jouko;Vuilleumier,Patrik;Hari,Riitta;Sams,Mikko;Nummenmaa,Lauri;(2015)Discrete Neural Signatures of Basic Emotions.
+Roldan-Valadez,Ernesto;Suarez-May,Marcela A;Favila,Rafael;Aguilar-Castaneda,Erika;Rios,Camilo;(2015)Selected Gray Matter Volumes and Gender but Not Basal Ganglia nor Cerebellum Gyri Discriminate Left Versus Right Cerebral Hemispheres: Multivariate Analyses in human Brains at 3T.
+Cole,Michael W;Ito,Takuya;Braver,Todd S;(2015)The Behavioral Relevance of Task Information in Human Prefrontal Cortex.
+Kim,Junsuk;Schultz,Johannes;Rohe,Tim;Wallraven,Christian;Lee,Seong-Whan;Bulthoff,Heinrich H;(2015)Abstract representations of associated emotions in the human brain.
+Johnson,Marcia K;Kuhl,Brice A;Mitchell,Karen J;Ankudowich,Elizabeth;Durbin,Kelly A;(2015)Age-related differences in the neural basis of the subjective vividness of memories: evidence from multivoxel pattern classification.
+Kambeitz-Ilankovic,Lana;Meisenzahl,Eva M;Cabral,Carlos;von Saldern,Sebastian;Kambeitz,Joseph;Falkai,Peter;Moller,Hans-Jurgen;Reiser,Maximilian;Koutsouleris,Nikolaos;(2015)Prediction of outcome in the psychosis prodrome using neuroanatomical pattern classification.
+Peth,Judith;Sommer,Tobias;Hebart,Martin N;Vossel,Gerhard;Buchel,Christian;Gamer,Matthias;(2015)Memory detection using fMRI - does the encoding context matter?
+Kahnt,Thorsten;Weber,Susanna C;Haker,Helene;Robbins,Trevor W;Tobler,Philippe N;(2015)Dopamine D2-receptor blockade enhances decoding of prefrontal signals in humans.
+McNamee,Daniel;Liljeholm,Mimi;Zika,Ondrej;O'Doherty,John P;(2015)Characterizing the associative content of brain structures involved in habitual and goal-directed actions in humans: a multivariate FMRI study.
+Zhang,Shu;Li,Xiang;Lv,Jinglei;Jiang,Xi;Guo,Lei;Liu,Tianming;(2015)Characterizing and differentiating task-based and resting state fMRI signals via two-stage sparse representations.
+Kiani,Roozbeh;Cueva,Christopher J;Reppas,John B;Peixoto,Diogo;Ryu,Stephen I;Newsome,William T;(2015)Natural grouping of neural responses reveals spatially segregated clusters in prearcuate cortex.
+Axelrod,Vadim;Yovel,Galit;(2015)Successful decoding of famous faces in the fusiform face area.
+Mason,Robert A;Just,Marcel Adam;(2015)Physics instruction induces changes in neural knowledge representation during successive stages of learning.
+deBettencourt,Megan T;Cohen,Jonathan D;Lee,Ray F;Norman,Kenneth A;Turk-Browne,Nicholas B;(2015)Closed-loop training of attention with real-time brain imaging.
+Pool,Eva-Maria;Rehme,Anne K;Eickhoff,Simon B;Fink,Gereon R;Grefkes,Christian;(2015)Functional resting-state connectivity of the human motor network: differences between right- and left-handers.
+Hebart,Martin N;Gorgen,Kai;Haynes,John-Dylan;(2014)The Decoding Toolbox (TDT): a versatile software package for multivariate analyses of functional imaging data.
+Etzel,Joset A;Cole,Michael W;Zacks,Jeffrey M;Kay,Kendrick N;Braver,Todd S;(2015)Reward Motivation Enhances Task Coding in Frontoparietal Cortex.
+Kamourieh,Salwa;Braga,Rodrigo M;Leech,Robert;Newbould,Rexford D;Malhotra,Paresh;Wise,Richard J S;(2015)Neural Systems Involved When Attending to a Speaker.
+Jiang,Weixiong;Liu,Huasheng;Zeng,Lingli;Liao,Jian;Shen,Hui;Luo,Aijing;Hu,Dewen;Wang,Wei;(2015)Decoding the processing of lying using functional connectivity MRI.
+Chen,Quanjing;Garcea,Frank E;Mahon,Bradford Z;(2015)The Representation of Object-Directed Action and Function Knowledge in the Human Brain.
+Arsenault,Jessica S;Buchsbaum,Bradley R;(2015)Distributed neural representations of phonological features during speech perception.
+Woolgar,Alexandra;Williams,Mark A;Rich,Anina N;(2015)Attention enhances multi-voxel representation of novel objects in frontal, parietal and visual cortices.
+Tursich,M;Ros,T;Frewen,P A;Kluetsch,R C;Calhoun,V D;Lanius,R A;(2015)Distinct intrinsic network connectivity patterns of post-traumatic stress disorder symptom clusters.
+Berry,Anne S;Blakely,Randy D;Sarter,Martin;Lustig,Cindy;(2015)Cholinergic capacity mediates prefrontal engagement during challenges to attention: evidence from imaging genetics.
+Lee,Su Mei;McCarthy,Gregory;(2014)Functional Heterogeneity and Convergence in the Right Temporoparietal Junction.
+Dayan,Eran;Hamann,Janne M;Averbeck,Bruno B;Cohen,Leonardo G;(2014)Brain structural substrates of reward dependence during behavioral performance.
+Mohr,Holger;Wolfensteller,Uta;Frimmel,Steffi;Ruge,Hannes;(2015)Sparse regularization techniques provide novel insights into outcome integration processes.
+Schlegel,Alexander;Alexander,Prescott;Fogelson,Sergey V;Li,Xueting;Lu,Zhengang;Kohler,Peter J;Riley,Enrico;Tse,Peter U;Meng,Ming;(2015)The artist emerges: visual art learning alters neural structure and function.
+Chen,L;T Vu,A;Xu,J;Moeller,S;Ugurbil,K;Yacoub,E;Feinberg,D A;(2015)Evaluation of highly accelerated simultaneous multi-slice EPI for fMRI.
+Skerry,Amy E;Saxe,Rebecca;(2014)A common neural code for perceived and inferred emotion.
+Krasovsky,Ariel;Gilron,Roee;Yeshurun,Yehezkel;Mukamel,Roy;(2014)Differentiating intended sensory outcome from underlying motor actions in the human brain.
+Cai,Weidong;Ryali,Srikanth;Chen,Tianwen;Li,Chiang-Shan R;Menon,Vinod;(2014)Dissociable roles of right inferior frontal cortex and anterior insula in inhibitory control: evidence from intrinsic and task-related functional parcellation, connectivity, and response profile analyses across multiple datasets.
+Behroozi,Mehdi;Daliri,Mohammad Reza;(2014)Predicting brain states associated with object categories from fMRI data.
+Vandenbroucke,A R E;Fahrenfort,J J;Meuwese,J D I;Scholte,H S;Lamme,V A F;(2014)Prior Knowledge about Objects Determines Neural Color Representation in Human Visual Cortex.
+Anders,Silke;Heussen,Yana;Sprenger,Andreas;Haynes,John-Dylan;Ethofer,Thomas;(2015)Social gating of sensory information during ongoing communication.
+Hsu,Chun-Ting;Jacobs,Arthur M;Conrad,Markus;(2015)Can Harry Potter still put a spell on us in a second language? An fMRI study on reading emotion-laden literature in late bilinguals.
+Dimitriadis,Stavros I;Sun,Yu;Kwok,Kenneth;Laskaris,Nikolaos A;Thakor,Nitish;Bezerianos,Anastasios;(2015)Cognitive workload assessment based on the tensorial treatment of EEG estimates of cross-frequency phase interactions.
+Cheng,H;Skosnik,P D;Pruce,B J;Brumbaugh,M S;Vollmer,J M;Fridberg,D J;O'Donnell,B F;Hetrick,W P;Newman,S D;(2014)Resting state functional magnetic resonance imaging reveals distinct brain activity in heavy cannabis users - a multi-voxel pattern analysis.
+Makovski,Tal;Lavidor,Michal;(2014)Stimulating occipital cortex enhances visual working memory consolidation.
+Ramirez,Fernando M;Cichy,Radoslaw M;Allefeld,Carsten;Haynes,John-Dylan;(2014)The neural code for face orientation in the human fusiform face area.
+Kim,Na Yeon;Lee,Su Mei;Erlendsdottir,Margret C;McCarthy,Gregory;(2014)Discriminable spatial patterns of activation for faces and bodies in the fusiform gyrus.
+Majerus,Steve;Cowan,Nelson;Peters,Frederic;Van Calster,Laurens;Phillips,Christophe;Schrouff,Jessica;(2014)Cross-Modal Decoding of Neural Patterns Associated with Working Memory: Evidence for Attention-Based Accounts of Working Memory.
+Ahrens,Merle-Marie;Awwad Shiekh Hasan,Bashar;Giordano,Bruno L;Belin,Pascal;(2014)Gender differences in the temporal voice areas.
+Kornysheva,Katja;Diedrichsen,Jorn;(2014)Human premotor areas parse sequences into their spatial and temporal features.
+Hebart,Martin N;Schriever,Yoren;Donner,Tobias H;Haynes,John-Dylan;(2014)The Relationship between Perceptual Decision Variables and Confidence in the Human Brain.
+Waskom,Michael L;Kumaran,Dharshan;Gordon,Alan M;Rissman,Jesse;Wagner,Anthony D;(2014)Frontoparietal representations of task context support the flexible control of goal-directed cognition.
+Chavez,Robert S;Heatherton,Todd F;(2015)Representational similarity of social and valence information in the medial pFC.
+Huang,Yu-Feng;Soon,Chun Siong;Mullette-Gillman,O'Dhaniel A;Hsieh,Po-Jang;(2014)Pre-existing brain states predict risky choices.
+Wisniewski,David;Reverberi,Carlo;Tusche,Anita;Haynes,John-Dylan;(2014)The Neural Representation of Voluntary Task-Set Selection in Dynamic Environments.
+Bogler,Carsten;Mehnert,Jan;Steinbrink,Jens;Haynes,John-Dylan;(2014)Decoding vigilance with NIRS.
+Fogelson,Sergey V;Kohler,Peter J;Miller,Kevin J;Granger,Richard;Tse,Peter U;(2014)Unconscious neural processing differs with method used to render stimuli invisible.
+Pariyadath,Vani;Stein,Elliot A;Ross,Thomas J;(2014)Machine learning classification of resting state functional connectivity predicts smoking status.
+Takashima,Atsuko;Wagensveld,Barbara;van Turennout,Miranda;Zwitserlood,Pienie;Hagoort,Peter;Verhoeven,Ludo;(2014)Training-induced neural plasticity in visual-word decoding and the role of syllables.
+Filimon,Flavia;Rieth,Cory A;Sereno,Martin I;Cottrell,Garrison W;(2015)Observed, Executed, and Imagined Action Representations can be Decoded From Ventral and Dorsal Areas.
+Moll,Jorge;Weingartner,Julie H;Bado,Patricia;Basilio,Rodrigo;Sato,Joao R;Melo,Bruno R;Bramati,Ivanei E;de Oliveira-Souza,Ricardo;Zahn,Roland;(2014)Voluntary enhancement of neural signatures of affiliative emotion using FMRI neurofeedback.
+Yang,Zhi;Huang,Zirui;Gonzalez-Castillo,Javier;Dai,Rui;Northoff,Georg;Bandettini,Peter;(2014)Using fMRI to decode true thoughts independent of intention to conceal.
+Cohen,Ori;Koppel,Moshe;Malach,Rafael;Friedman,Doron;(2014)Controlling an avatar by thought using real-time fMRI.
+Nawa,Norberto Eiji;Ando,Hiroshi;(2014)Classification of self-driven mental tasks from whole-brain activity patterns.
+Woolgar,Alexandra;Golland,Polina;Bode,Stefan;(2014)Coping with confounds in multivoxel pattern analysis: what should we do about reaction time differences? A comment on Todd, Nystrom & Cohen 2013.
+Anderson,John R;Lee,Hee Seung;Fincham,Jon M;(2014)Discovering the structure of mathematical problem solving.
+Tusche,Anita;Smallwood,Jonathan;Bernhardt,Boris C;Singer,Tania;(2014)Classifying the wandering mind: revealing the affective content of thoughts during task-free rest periods.
+Ritter,Christoph;Hebart,Martin N;Wolbers,Thomas;Bingel,Ulrike;(2014)Representation of spatial information in key areas of the descending pain modulatory system.
+Shen,Guohua;Zhang,Jing;Wang,Mengxing;Lei,Du;Yang,Guang;Zhang,Shanmin;Du,Xiaoxia;(2014)Decoding the individual finger movements from single-trial functional magnetic resonance imaging recordings of human brain activity.
+Jacobs,Richard H A H;Baumgartner,Elisabeth;Gegenfurtner,Karl R;(2014)The representation of material categories in the brain.
+Liu,Jiangang;Li,Jun;Feng,Lu;Li,Ling;Tian,Jie;Lee,Kang;(2014)Seeing Jesus in toast: neural and behavioral correlates of face pareidolia.
+Behroozi,Mehdi;Daliri,Mohammad Reza;(2015)RDLPFC area of the brain encodes sentence polarity: a study using fMRI.
+Harel,Assaf;Kravitz,Dwight J;Baker,Chris I;(2014)Task context impacts visual object processing differentially across the cortex.
+Axelrod,Vadim;Bar,Moshe;Rees,Geraint;Yovel,Galit;(2015)Neural Correlates of Subliminal Language Processing.
+Folia,Vasiliki;Petersson,Karl Magnus;(2014)Implicit structured sequence learning: an fMRI study of the structural mere-exposure effect.
+Puonti,Oula;Iglesias,Juan Eugenio;Van Leemput,Koen;(2013)Fast, sequence adaptive parcellation of brain MR using parametric models.
+Christophel,Thomas B;Haynes,John-Dylan;(2014)Decoding complex flow-field patterns in visual working memory.
+Sreenivasan,Kartik K;Curtis,Clayton E;D'Esposito,Mark;(2014)Revisiting the role of persistent neural activity during working memory.
+Niazi,Adnan M;van den Broek,Philip L C;Klanke,Stefan;Barth,Markus;Poel,Mannes;Desain,Peter;van Gerven,Marcel A J;(2014)Online decoding of object-based attention using real-time fMRI.
+Park,Soojin;Konkle,Talia;Oliva,Aude;(2015)Parametric Coding of the Size and Clutter of Natural Scenes in the Human Brain.
+Maguire,Eleanor A;(2014)Memory consolidation in humans: new evidence and opportunities.
+Bruck,Carolin;Kreifelts,Benjamin;Goling-Arnold,Christina;Wertheimer,Jurgen;Wildgruber,Dirk;(2014)'Inner voices': the cerebral representation of emotional voice cues described in literary texts.
+Sreenivasan,Kartik K;Vytlacil,Jason;D'Esposito,Mark;(2014)Distributed and dynamic storage of working memory stimulus information in extrastriate cortex.
+Sawahata,Yasuhito;Komine,Kazuteru;Morita,Toshiya;Hiruma,Nobuyuki;(2013)Decoding humor experiences from brain activity of people viewing comedy movies.
+Bulthe,J;De Smedt,B;Op de Beeck,H P;(2014)Format-dependent representations of symbolic and non-symbolic numbers in the human cortex as revealed by multi-voxel pattern analyses.
+Toepel,Ulrike;Ohla,Kathrin;Hudry,Julie;le Coutre,Johannes;Murray,Micah M;(2014)Verbal labels selectively bias brain responses to high-energy foods.
+Momennejad,Ida;Haynes,John-Dylan;(2013)Encoding of prospective tasks in the human prefrontal cortex under varying task loads.
+Anderson,Andrew J;Murphy,Brian;Poesio,Massimo;(2014)Discriminating taxonomic categories and domains in mental simulations of concepts of varying concreteness.
+Fruhholz,Sascha;Grandjean,Didier;(2013)Processing of emotional vocalizations in bilateral inferior frontal cortex.
+Roldan-Valadez,Ernesto;Rios,Camilo;Suarez-May,Marcela A;Favila,Rafel;Aguilar-Castaneda,Erika;(2013)Main effect and interactions of brain regions and gender in the calculation of volumetric asymmetry indices in healthy human brains: ANCOVA analyses of in vivo 3T MRI data.
+Nelissen,Natalie;Stokes,Mark;Nobre,Anna C;Rushworth,Matthew F S;(2013)Frontal and parietal cortical interactions with distributed visual representations during selective attention and action selection.
+Smith,Fraser W;Goodale,Melvyn A;(2015)Decoding visual object categories in early somatosensory cortex.
+Kim,Chang-Eop;Kim,Yu Kyeong;Chung,Geehoon;Im,Hyung Jun;Lee,Dong Soo;Kim,Jun;Kim,Sang Jeong;(2014)Identifying neuropathic pain using (18)F-FDG micro-PET: a multivariate pattern analysis.
+Kuhl,Brice A;Johnson,Marcia K;Chun,Marvin M;(2013)Dissociable neural mechanisms for goal-directed versus incidental memory reactivation.
+Manelis,Anna;Reder,Lynne M;(2015)He who is well prepared has half won the battle: an FMRI study of task preparation.
+Kim,Eunwoo;Kim,Dae-Shik;Ahmad,Fayyaz;Park,Hyunwook;(2013)Pattern-based Granger causality mapping in FMRI.
+Schlegel,Alexander;Kohler,Peter J;Fogelson,Sergey V;Alexander,Prescott;Konuthula,Dedeepya;Tse,Peter Ulric;(2013)Network structure and dynamics of the mental workspace.
+Thanh Hai,Nguyen;Cuong,Ngo Q;Dang Khoa,Truong Q;Van Toi,Vo;(2013)Temporal hemodynamic classification of two hands tapping using functional near-infrared spectroscopy.
+Ward,Emily J;Chun,Marvin M;Kuhl,Brice A;(2013)Repetition suppression and multi-voxel pattern similarity differentially track implicit and explicit visual memory.
+Stolk,Arjen;Verhagen,Lennart;Schoffelen,Jan-Mathijs;Oostenveld,Robert;Blokpoel,Mark;Hagoort,Peter;van Rooij,Iris;Toni,Ivan;(2013)Neural mechanisms of communicative innovation.
+Wang,Megan;Arteaga,Daniel;He,Biyu J;(2013)Brain mechanisms for simple perception and bistable perception.
+Aukland,Stein M;Elgen,Irene B;Odberg,Morten D;Chong,W Kling;Eide,Geir E;Rosendahl,Karen;(2014)Ventricular dilatation in ex-prematures: only confined to the occipital region? MRI-based normative standards for 19-year-old ex-prematures without major handicaps.
+He,Qinghua;Xue,Gui;Chen,Chunhui;Chen,Chuansheng;Lu,Zhong-Lin;Dong,Qi;(2013)Decoding the neuroanatomical basis of reading ability: a multivoxel morphometric study.
+Papageorgiou,T Dorina;Lisinski,Jonathan M;McHenry,Monica A;White,Jason P;LaConte,Stephen M;(2013)Brain-computer interfaces increase whole-brain signal to noise.
+Zhang,Jiaxiang;Kriegeskorte,Nikolaus;Carlin,Johan D;Rowe,James B;(2013)Choosing the rules: distinct and overlapping frontoparietal representations of task rules for perceptual decisions.
+Blum,Kenneth;Foster Olive,M;Wang,Kevin K W;Febo,Marcelo;Borsten,Joan;Giordano,John;Hauser,Mary;Gold,Mark S;(2013)Hypothesizing that designer drugs containing cathinones ("bath salts") have profound neuro-inflammatory effects and dangerous neurotoxic response following human consumption.
+Tamber-Rosenau,Benjamin J;Dux,Paul E;Tombu,Michael N;Asplund,Christopher L;Marois,Rene;(2013)Amodal processing in human prefrontal cortex.
+Lee,Sue-Hyun;Kravitz,Dwight J;Baker,Chris I;(2013)Goal-dependent dissociation of visual and prefrontal cortices during working memory.
+Fairhall,Scott L;Caramazza,Alfonso;(2013)Brain regions that represent amodal conceptual knowledge.
+Corradi-Dell'Acqua,Corrado;Hofstetter,Christoph;Vuilleumier,Patrik;(2014)Cognitive and affective theory of mind share the same local patterns of activity in posterior temporal but not medial prefrontal cortex.
+Bzdok,Danilo;Langner,Robert;Schilbach,Leonhard;Engemann,Denis A;Laird,Angela R;Fox,Peter T;Eickhoff,Simon B;(2013)Segregation of the human medial prefrontal cortex in social cognition.
+Emmorey,Karen;Weisberg,Jill;McCullough,Stephen;Petrich,Jennifer A F;(2013)Mapping the reading circuitry for skilled deaf readers: an fMRI study of semantic and phonological processing.
+Oosterhof,Nikolaas N;Tipper,Steven P;Downing,Paul E;(2013)Crossmodal and action-specific: neuroimaging the human mirror neuron system.
+Gallivan,Jason P;McLean,D Adam;Valyear,Kenneth F;Culham,Jody C;(2013)Decoding the neural mechanisms of human tool use.
+Wildgruber,Dirk;Szameitat,Diana P;Ethofer,Thomas;Bruck,Carolin;Alter,Kai;Grodd,Wolfgang;Kreifelts,Benjamin;(2013)Different types of laughter modulate connectivity within distinct parts of the laughter perception network.
+Wilson-Mendenhall,Christine D;Barrett,Lisa Feldman;Barsalou,Lawrence W;(2013)Neural evidence that human emotions share core affective properties.
+Cole,David M;Beckmann,Christian F;Oei,Nicole Y L;Both,Stephanie;van Gerven,Joop M A;Rombouts,Serge A R B;(2013)Differential and distributed effects of dopamine neuromodulations on resting-state network connectivity.
+Evans,S;Kyong,J S;Rosen,S;Golestani,N;Warren,J E;McGettigan,C;Mourao-Miranda,J;Wise,R J S;Scott,S K;(2014)The pathways for intelligible speech: multivariate and univariate perspectives.
+Lee,Tatia M C;Leung,Mei-Kei;Lee,Tiffany M Y;Raine,Adrian;Chan,Chetwyn C H;(2013)I want to lie about not knowing you, but my precuneus refuses to cooperate.
+Wang,Jing;Baucom,Laura B;Shinkareva,Svetlana V;(2013)Decoding abstract and concrete concept representations based on single-trial fMRI data.
+Todd,Michael T;Nystrom,Leigh E;Cohen,Jonathan D;(2013)Confounds in multivariate pattern analysis: Theory and rule representation case study.
+Magland,Jeremy F;Childress,Anna Rose;Task-correlated facial and head movements in classifier-based real-time FMRI.
+Soon,Chun Siong;He,Anna Hanxi;Bode,Stefan;Haynes,John-Dylan;(2013)Predicting free choices for abstract intentions.
+Zheng,Zane Z;Vicente-Grabovetsky,Alejandro;MacDonald,Ewen N;Munhall,Kevin G;Cusack,Rhodri;Johnsrude,Ingrid S;(2013)Multivoxel patterns reveal functionally differentiated networks underlying auditory feedback processing of speech.
+Hassabis,Demis;Spreng,R Nathan;Rusu,Andrei A;Robbins,Clifford A;Mar,Raymond A;Schacter,Daniel L;(2014)Imagine all the people: how the brain creates and uses personality models to predict behavior.
+Wiebking,Christine;Northoff,Georg;(2013)Neuroimaging in pedophilia.
+Spiegel,David;Lewis-Fernandez,Roberto;Lanius,Ruth;Vermetten,Eric;Simeon,Daphne;Friedman,Matthew;(2013)Dissociative disorders in DSM-5.
+Gallivan,Jason P;McLean,D Adam;Flanagan,J Randall;Culham,Jody C;(2013)Where one hand meets the other: limb-specific and action-dependent movement plans decoded from preparatory signals in single human frontoparietal brain areas.
+Raabe,Markus;Fischer,Volker;Bernhardt,Daniela;Greenlee,Mark W;(2013)Neural correlates of spatial working memory load in a delayed match-to-sample saccade task.
+Heni,Martin;Kullmann,Stephanie;Ketterer,Caroline;Guthoff,Martina;Bayer,Margarete;Staiger,Harald;Machicao,Fausto;Haring,Hans-Ulrich;Preissl,Hubert;Veit,Ralf;Fritsche,Andreas;(2014)Differential effect of glucose ingestion on the neural processing of food stimuli in lean and overweight adults.
+Grosenick,Logan;Klingenberg,Brad;Katovich,Kiefer;Knutson,Brian;Taylor,Jonathan E;(2013)Interpretable whole-brain prediction analysis with GraphNet.
+Wee,Chong-Yaw;Yap,Pew-Thian;Zhang,Daoqiang;Wang,Lihong;Shen,Dinggang;(2012)Constrained sparse functional connectivity networks for MCI classification.
+Mansfield,Elise L;Karayanidis,Frini;Cohen,Michael X;(2012)Switch-related and general preparation processes in task-switching: evidence from multivariate pattern classification of EEG data.
+Reverberi,Carlo;Gorgen,Kai;Haynes,John-Dylan;(2012)Distributed representations of rule identity and rule order in human frontal cortex and striatum.
+Qin,Yulin;Xiang,Jie;Wang,Rifeng;Zhou,Haiyan;Li,Kuncheng;Zhong,Ning;(2012)Neural bases for basic processes in heuristic problem solving: Take solving Sudoku puzzles as an example.
+Bonnici,Heidi M;Chadwick,Martin J;Lutti,Antoine;Hassabis,Demis;Weiskopf,Nikolaus;Maguire,Eleanor A;(2012)Detecting representations of recent and remote autobiographical memories in vmPFC and hippocampus.
+White,Corey N;Mumford,Jeanette A;Poldrack,Russell A;(2012)Perceptual criteria in the human brain.
+FitzGerald,Thomas H B;Friston,Karl J;Dolan,Raymond J;(2012)Action-specific value signals in reward-related regions of the human brain.
+Peelen,Marius V;Caramazza,Alfonso;(2012)Conceptual object representations in human anterior temporal cortex.
+Taghi,Ali;Ali,Ahmed;Clarke,Peter;(2012)Craniofacial resection and its role in the management of sinonasal malignancies.
+Simanova,Irina;Hagoort,Peter;Oostenveld,Robert;van Gerven,Marcel A J;(2014)Modality-independent decoding of semantic information from the human brain.
+Mitchell,Rachel L C;(2013)Further characterisation of the functional neuroanatomy associated with prosodic emotion decoding.
+Wetherill,Reagan R;Castro,Norma;Squeglia,Lindsay M;Tapert,Susan F;(2013)Atypical neural activity during inhibitory processing in substance-naive youth who later experience alcohol-induced blackouts.
+Riggall,Adam C;Postle,Bradley R;(2012)The relationship between working memory storage and elevated activity as measured with functional magnetic resonance imaging.
+Christophel,Thomas B;Hebart,Martin N;Haynes,John-Dylan;(2012)Decoding the contents of visual short-term memory from human visual and parietal cortex.
+Nee,Derek Evan;Brown,Joshua W;(2012)Rostral-caudal gradients of abstraction revealed by multi-variate pattern analysis of working memory.
+Laurent,Heidemarie K;Ablow,Jennifer C;(2012)The missing link: mothers' neural response to infant cry related to infant attachment behaviors.
+Gilbert,Sam J;Swencionis,Jillian K;Amodio,David M;(2012)Evaluative vs. trait representation in intergroup social judgments: distinct roles of anterior temporal lobe and prefrontal cortex.
+Ritchey,Maureen;Wing,Erik A;LaBar,Kevin S;Cabeza,Roberto;(2013)Neural similarity between encoding and retrieval is related to memory via hippocampal interactions.
+Hou,Youyang;Liu,Taosheng;(2012)Neural correlates of object-based attentional selection in human cortex.
+Bahlmann,Jorg;Korb,Franziska M;Gratton,Caterina;Friederici,Angela D;(2012)Levels of integration in cognitive control and sequence processing in the prefrontal cortex.
+Clos,Mareike;Langner,Robert;Meyer,Martin;Oechslin,Mathias S;Zilles,Karl;Eickhoff,Simon B;(2014)Effects of prior information on decoding degraded speech: an fMRI study.
+Brodersen,Kay H;Wiech,Katja;Lomakina,Ekaterina I;Lin,Chia-Shu;Buhmann,Joachim M;Bingel,Ulrike;Ploner,Markus;Stephan,Klaas Enno;Tracey,Irene;(2012)Decoding the perception of pain from fMRI using multivariate pattern analysis.
+Hebart,Martin N;Donner,Tobias H;Haynes,John-Dylan;(2012)Human visual and parietal cortex encode visual choices independent of motor plans.
+Ackerman,Christopher M;Courtney,Susan M;(2012)Spatial relations and spatial locations are dissociated within prefrontal and parietal cortex.
+Canessa,Nicola;Alemanno,Federica;Riva,Federica;Zani,Alberto;Proverbio,Alice Mado;Mannara,Nicola;Perani,Daniela;Cappa,Stefano F;(2012)The neural bases of social intention understanding: the role of interaction goals.
+Van der Laan,Laura N;De Ridder,Denise T D;Viergever,Max A;Smeets,Paul A M;(2012)Appearance matters: neural correlates of food choice and packaging aesthetics.
+Carter,R McKell;Bowling,Daniel L;Reeck,Crystal;Huettel,Scott A;(2012)A distinct role of the temporal-parietal junction in predicting socially guided decisions.
+Chen,Anthony J-W;Britton,Michael;Turner,Gary R;Vytlacil,Jason;Thompson,Todd W;D'Esposito,Mark;(2012)Goal-directed attention alters the tuning of object-based representations in extrastriate cortex.
+Fruhholz,Sascha;Grandjean,Didier;(2012)Towards a fronto-temporal neural network for the decoding of angry vocal expressions.
+Pyka,Martin;Hahn,Tim;Heider,Dominik;Krug,Axel;Sommer,Jens;Kircher,Tilo;Jansen,Andreas;(2013)Baseline activity predicts working memory load of preceding task condition.
+Abrams,Daniel A;Ryali,Srikanth;Chen,Tianwen;Balaban,Evan;Levitin,Daniel J;Menon,Vinod;(2013)Multivariate activation and connectivity patterns discriminate speech intelligibility in Wernicke's, Broca's, and Geschwind's areas.
+Davis,F Caroline;Knodt,Annchen R;Sporns,Olaf;Lahey,Benjamin B;Zald,David H;Brigidi,Bart D;Hariri,Ahmad R;(2013)Impulsivity and the modular organization of resting-state neural networks.
+Buchsbaum,Bradley R;Lemire-Rodger,Sabrina;Fang,Candice;Abdi,Herve;(2012)The neural basis of vivid memory is patterned on perception.
+Dmochowski,Jacek P;Sajda,Paul;Dias,Joao;Parra,Lucas C;(2012)Correlated components of ongoing EEG point to emotionally laden attention - a possible marker of engagement?
+Lupyan,Gary;Mirman,Daniel;Hamilton,Roy;Thompson-Schill,Sharon L;(2012)Categorization is modulated by transcranial direct current stimulation over left prefrontal cortex.
+Herve,Pierre-Yves;Razafimandimby,Annick;Vigneau,Mathieu;Mazoyer,Bernard;Tzourio-Mazoyer,Nathalie;(2012)Disentangling the brain networks supporting affective speech comprehension.
+Pantazatos,Spiro P;Talati,Ardesheer;Pavlidis,Paul;Hirsch,Joy;(2012)Cortical functional connectivity decodes subconscious, task-irrelevant threat-related emotion processing.
+Pantazatos,Spiro P;Talati,Ardesheer;Pavlidis,Paul;Hirsch,Joy;(2012)Decoding unattended fearful faces with whole-brain correlations: an approach to identify condition-dependent large-scale functional connectivity.
+Merrill,Julia;Sammler,Daniela;Bangert,Marc;Goldhahn,Dirk;Lohmann,Gabriele;Turner,Robert;Friederici,Angela D;(2012)Perception of words and pitch patterns in song and speech.
+Lee,Yune-Sang;Turkeltaub,Peter;Granger,Richard;Raizada,Rajeev D S;(2012)Categorical speech processing in Broca's area: an fMRI study using multivariate pattern-based analysis.
+Moghimi,Saba;Kushki,Azadeh;Power,Sarah;Guerguerian,Anne Marie;Chau,Tom;(2012)Automatic detection of a prefrontal cortical response to emotionally rated music using multi-channel near-infrared spectroscopy.
+Momennejad,Ida;Haynes,John-Dylan;(2012)Human anterior prefrontal cortex encodes the 'what' and 'when' of future intentions.
+Lages,Martin;Jaworska,Katarzyna;(2012)How Predictable are "Spontaneous Decisions" and "Hidden Intentions"? Comparing Classification Results Based on Previous Responses with Multivariate Pattern Analysis of fMRI BOLD Signals.
+Kuhl,Brice A;Bainbridge,Wilma A;Chun,Marvin M;(2012)Neural reactivation reveals mechanisms for updating memory.
+Kotz,Sonja A;Kalberlah,Christian;Bahlmann,Jorg;Friederici,Angela D;Haynes,John-D;(2013)Predicting vocal emotion expressions from the human brain.
+Hauser,Maximilian F A;Hofmann,Juliane;Opitz,Bertram;(2012)Rule and similarity in grammar: their interplay and individual differences in the brain.
+Blair,Kristen P;Rosenberg-Lee,Miriam;Tsang,Jessica M;Schwartz,Daniel L;Menon,Vinod;(2012)Beyond natural numbers: negative number representation in parietal cortex.
+Hussar,Cory R;Pasternak,Tatiana;(2012)Memory-guided sensory comparisons in the prefrontal cortex: contribution of putative pyramidal cells and interneurons.
+Tzovara,Athina;Murray,Micah M;Bourdaud,Nicolas;Chavarriaga,Ricardo;Millan,Jose del R;De Lucia,Marzia;(2012)The timing of exploratory decision-making revealed by single-trial topographic EEGanalyses.
+Abibullaev,Berdakh;An,Jinung;(2012)Classification of frontal cortex haemodynamic responses during cognitive tasks using wavelet transforms and machine learning algorithms.
+Banerjee,Arpan;Pillai,Ajay S;Horwitz,Barry;(2011)Using large-scale neural models to interpret connectivity measures of cortico-cortical dynamics at millisecond temporal resolution.
+Xuan,Yun;Meng,Chun;Yang,Yanhui;Zhu,Chaozhe;Wang,Liang;Yan,Qian;Lin,Chunlan;Yu,Chunshui;(2012)Resting-state brain activity in adult males who stutter.
+Kaplan,Jonas T;Meyer,Kaspar;(2012)Multivariate pattern analysis reveals common neural patterns across individuals during touch observation.
+Fabbri,Sara;Caramazza,Alfonso;Lingnau,Angelika;(2012)Distributed sensitivity for movement amplitude in directionally tuned neuronal populations.
+Provost,Jean-Sebastien;Petrides,Michael;Simard,France;Monchi,Oury;(2012)Investigating the long-lasting residual effect of a set shift on frontostriatal activity.
+Corradi-Dell'Acqua,Corrado;Hofstetter,Christoph;Vuilleumier,Patrik;(2011)Felt and seen pain evoke the same local patterns of cortical activity in insular and cingulate cortex.
+Bernasconi,Fosco;De Lucia,Marzia;Tzovara,Athina;Manuel,Aurelie L;Murray,Micah M;Spierer,Lucas;(2011)Noise in brain activity engenders perception and influences discrimination sensitivity.
+Brattico,Elvira;Alluri,Vinoo;Bogert,Brigitte;Jacobsen,Thomas;Vartiainen,Nuutti;Nieminen,Sirke;Tervaniemi,Mari;(2011)A Functional MRI Study of Happy and Sad Emotions in Music with and without Lyrics.
+Cole,Michael W;Etzel,Joset A;Zacks,Jeffrey M;Schneider,Walter;Braver,Todd S;(2011)Rapid transfer of abstract rules to novel contexts in human lateral prefrontal cortex.
+Ladouceur,Cecile D;Farchione,Tiffany;Diwadkar,Vaibhav;Pruitt,Patrick;Radwan,Jacqueline;Axelson,David A;Birmaher,Boris;Phillips,Mary L;(2011)Differential patterns of abnormal activity and connectivity in the amygdala-prefrontal circuitry in bipolar-I and bipolar-NOS youth.
+Gallivan,Jason P;McLean,D Adam;Smith,Fraser W;Culham,Jody C;(2011)Decoding effector-dependent and effector-independent movement intentions from human parieto-frontal brain activity.
+Jimura,Koji;Poldrack,Russell A;(2012)Analyses of regional-average activation and multivoxel pattern information tell complementary stories.
+Cavanna,Andrea E;Rickards,Hugh;Ali,Fizzah;(2011)What makes a simple partial seizure complex?
+McGettigan,Carolyn;Evans,Samuel;Rosen,Stuart;Agnew,Zarinah K;Shah,Poonam;Scott,Sophie K;(2012)An application of univariate and multivariate approaches in FMRI to quantifying the hemispheric lateralization of acoustic and linguistic processes.
+Horner,Aidan J;Henson,Richard N;(2012)Incongruent abstract stimulus-response bindings result in response interference: FMRI and EEG evidence from visual object classification priming.
+Monosov,Ilya E;Sheinberg,David L;Thompson,Kirk G;(2011)The effects of prefrontal cortex inactivation on object responses of single neurons in the inferotemporal cortex during visual search.
+Koten,Jan Willem;Lonnemann,Jan;Willmes,Klaus;Knops,Andre;(2011)Micro and macro pattern analyses of FMRI data support both early and late interaction of numerical and spatial information.
+Chouinard,Philippe A;Goodale,Melvyn A;(2012)FMRI-adaptation to highly-rendered color photographs of animals and manipulable artifacts during a classification task.
+Linden,David E J;Oosterhof,Nikolaas N;Klein,Christoph;Downing,Paul E;(2012)Mapping brain activation and information during category-specific visual working memory.
+Hollmann,Maurice;Rieger,Jochem W;Baecke,Sebastian;Lutzkendorf,Ralf;Muller,Charles;Adolf,Daniela;Bernarding,Johannes;(2011)Predicting decisions in human social interactions using real-time fMRI and pattern classification.
+Kahnt,Thorsten;Heinzle,Jakob;Park,Soyoung Q;Haynes,John-Dylan;(2011)Decoding the formation of reward predictions across learning.
+Woolgar,Alexandra;Hampshire,Adam;Thompson,Russell;Duncan,John;(2011)Adaptive coding of task-relevant information in human frontoparietal cortex.
+Vickery,Timothy J;Chun,Marvin M;Lee,Daeyeol;(2011)Ubiquity and specificity of reinforcement signals throughout the human brain.
+Bogler,Carsten;Bode,Stefan;Haynes,John-Dylan;(2011)Decoding successive computational stages of saliency processing.
+Benjamin,Christopher F A;Gaab,Nadine;(2012)What's the story? The tale of reading fluency told at speed.
+Klasen,Martin;Kenworthy,Charles A;Mathiak,Krystyna A;Kircher,Tilo T J;Mathiak,Klaus;(2011)Supramodal representation of emotions.
+Kuhl,Brice A;Rissman,Jesse;Wagner,Anthony D;(2012)Multi-voxel patterns of visual category representation during episodic encoding are predictive of subsequent memory.
+Oztekin,Ilke;Badre,David;(2011)Distributed Patterns of Brain Activity that Lead to Forgetting.
+Summerfield,Christopher;Behrens,Timothy E;Koechlin,Etienne;(2011)Perceptual classification in a rapidly changing environment.
+Visser,Renee M;Scholte,H Steven;Kindt,Merel;(2011)Associative learning increases trial-by-trial similarity of BOLD-MRI patterns.
+Prince,Steven E;Thomas,Laura A;Kragel,Philip A;LaBar,Kevin S;(2012)Fear-relevant outcomes modulate the neural correlates of probabilistic classification learning.
+Reverberi,Carlo;Gorgen,Kai;Haynes,John-Dylan;(2012)Compositionality of rule representations in human prefrontal cortex.
+Baucom,Laura B;Wedell,Douglas H;Wang,Jing;Blitzer,David N;Shinkareva,Svetlana V;(2012)Decoding the neural representation of affective states.
+Chiu,Yu-Chin;Esterman,Michael S;Gmeindl,Leon;Yantis,Steven;(2012)Tracking cognitive fluctuations with multivoxel pattern time course (MVPTC) analysis.
+Bode,Stefan;He,Anna Hanxi;Soon,Chun Siong;Trampel,Robert;Turner,Robert;Haynes,John-Dylan;(2011)Tracking the unconscious generation of free decisions using ultra-high field fMRI.
+Fruhholz,Sascha;Ceravolo,Leonardo;Grandjean,Didier;(2012)Specific brain networks during explicit and implicit decoding of emotional prosody.
+Engel,Annerose;Keller,Peter E;(2011)The perception of musical spontaneity in improvised and imitated jazz performances.
+Gallivan,Jason P;McLean,D Adam;Valyear,Kenneth F;Pettypiece,Charles E;Culham,Jody C;(2011)Decoding action intentions from preparatory brain activity in human parieto-frontal networks.
+Alink,Arjen;Euler,Felix;Kriegeskorte,Nikolaus;Singer,Wolf;Kohler,Axel;(2012)Auditory motion direction encoding in auditory cortex and high-level visual cortex.
+Bruck,Carolin;Kreifelts,Benjamin;Kaza,Evangelia;Lotze,Martin;Wildgruber,Dirk;(2011)Impact of personality on the cerebral processing of emotional prosody.
+Shirer,W R;Ryali,S;Rykhlevskaia,E;Menon,V;Greicius,M D;(2012)Decoding subject-driven cognitive states with whole-brain connectivity patterns.
+Ford,Jaclyn Hennessey;Addis,Donna Rose;Giovanello,Kelly S;(2011)Differential neural activity during search of specific and general autobiographical memories elicited by musical cues.
+Moor,Bregtje Gunther;Macks,Zdena A Op de;Guroglu,Berna;Rombouts,Serge A R B;Molen,Maurits W Van der;Crone,Eveline A;(2012)Neurodevelopmental changes of reading the mind in the eyes.
+Lindenberg,Robert;Uhlig,Marie;Scherfeld,Dag;Schlaug,Gottfried;Seitz,Ruediger J;(2012)Communication with emblematic gestures: shared and distinct neural correlates of expression and reception.
+Beaucousin,Virginie;Zago,Laure;Herve,Pierre-Yves;Strelnikov,Kuzma;Crivello,Fabrice;Mazoyer,Bernard;Tzourio-Mazoyer,Nathalie;(2011)Sex-dependent modulation of activity in the neural networks engaged during emotional speech comprehension.
+Kuhl,Brice A;Rissman,Jesse;Chun,Marvin M;Wagner,Anthony D;(2011)Fidelity of neural reactivation reveals competition between memories.
+Liu,Taosheng;Hospadaruk,Luke;Zhu,David C;Gardner,Justin L;(2011)Feature-specific attentional priority signals in human cortex.
+Gilbert,Sam J;(2011)Decoding the content of delayed intentions.
+Eldeghaidy,Sally;Marciani,Luca;McGlone,Francis;Hollowood,Tracey;Hort,Joanne;Head,Kay;Taylor,Andrew J;Busch,Johanneke;Spiller,Robin C;Gowland,Penny A;Francis,Susan T;(2011)The cortical response to the oral perception of fat emulsions and the effect of taster status.
+Lee,Yune-Sang;Janata,Petr;Frost,Carlton;Hanke,Michael;Granger,Richard;(2011)Investigation of melodic contour processing in the brain using multivariate pattern-based fMRI.
+Tamber-Rosenau,Benjamin J;Esterman,Michael;Chiu,Yu-Chin;Yantis,Steven;(2011)Cortical mechanisms of cognitive control for shifting attention in vision and working memory.
+Kaul,Christian;Rees,Geraint;Ishai,Alumit;(2011)The Gender of Face Stimuli is Represented in Multiple Regions in the Human Brain.
+Sligte,Ilja G;Wokke,Martijn E;Tesselaar,Johannes P;Scholte,H Steven;Lamme,Victor A F;(2011)Magnetic stimulation of the dorsolateral prefrontal cortex dissociates fragile visual short-term memory from visual working memory.
+Abrams,Daniel A;Bhatara,Anjali;Ryali,Srikanth;Balaban,Evan;Levitin,Daniel J;Menon,Vinod;(2011)Decoding temporal structure in music and speech relies on shared brain resources but elicits different fine-scale spatial patterns.
+Tremblay,Pascale;Small,Steven L;(2011)From language comprehension to action understanding and back again.
+Osipowicz,Karol;Rickards,Tyler;Shah,Atif;Sharan,Ashwini;Sperling,Michael;Kahn,Waseem;Tracy,Joseph;(2011)A test of the role of the medial temporal lobe in single-word decoding.
+Simard,France;Joanette,Yves;Petrides,Michael;Jubault,Thomas;Madjar,Cecile;Monchi,Oury;(2011)Fronto-striatal contribution to lexical set-shifting.
+Xue,Gui;Dong,Qi;Chen,Chuansheng;Lu,Zhonglin;Mumford,Jeanette A;Poldrack,Russell A;(2010)Greater neural pattern similarity across repetitions is associated with better memory.
+Peelen,Marius V;Atkinson,Anthony P;Vuilleumier,Patrik;(2010)Supramodal representations of perceived emotions in the human brain.
+Kuhn,Simone;Bodammer,Nils Christian;Brass,Marcel;(2010)Dissociating mental states related to doing nothing by means of fMRI pattern classification.
+Daniel,Reka;Wagner,Gerd;Koch,Kathrin;Reichenbach,Jurgen R;Sauer,Heinrich;Schlosser,Ralf G M;(2011)Assessing the neural basis of uncertainty in perceptual category learning through varying levels of distortion.
+Said,Christopher P;Moore,Christopher D;Engell,Andrew D;Todorov,Alexander;Haxby,James V;(2010)Distributed representations of dynamic facial expressions in the superior temporal sulcus.
+Graves,William W;Binder,Jeffrey R;Desai,Rutvik H;Conant,Lisa L;Seidenberg,Mark S;(2010)Neural correlates of implicit and explicit combinatorial semantic processing.
+Gotts,Stephen J;Milleville,Shawn C;Bellgowan,Patrick S F;Martin,Alex;(2011)Broad and narrow conceptual tuning in the human frontal lobes.
+Godde,Ben;Diamond,Mathew E;Braun,Christoph;(2010)Feeling for space or for time: task-dependent modulation of the cortical representation of identical vibrotactile stimuli.
+Oosterhof,Nikolaas N;Wiggett,Alison J;Diedrichsen,Jorn;Tipper,Steven P;Downing,Paul E;(2010)Surface-based information mapping reveals crossmodal vision-action representations in human parietal and occipitotemporal cortex.
+Tusche,Anita;Bode,Stefan;Haynes,John-Dylan;(2010)Neural responses to unattended products predict later consumer choices.
+Adriany,Gregor;Auerbach,Edward J;Snyder,Carl J;Gozubuyuk,Ark;Moeller,Steen;Ritter,Johannes;Van de Moortele,Pierre-Francois;Vaughan,Tommy;Ugurbil,Kamil;(2010)A 32-channel lattice transmission line array for parallel transmit and receive MRI at 7 tesla.
+Kahnt,Thorsten;Heinzle,Jakob;Park,Soyoung Q;Haynes,John-Dylan;(2011)Decoding different roles for vmPFC and dlPFC in multi-attribute decision making.
+Peters,J;Buchel,C;(2010)Neural representations of subjective reward value.
+Woolgar,Alexandra;Thompson,Russell;Bor,Daniel;Duncan,John;(2011)Multi-voxel coding of stimuli, rules, and responses in human frontoparietal cortex.
+Sachs,Olga;Weis,Susanne;Zellagui,Nadia;Sass,Katharina;Huber,Walter;Zvyagintsev,Mikhail;Mathiak,Klaus;Kircher,Tilo;(2011)How different types of conceptual relations modulate brain activation during semantic priming.
+Clithero,John A;Smith,David V;Carter,R McKell;Huettel,Scott A;(2011)Within- and cross-participant classifiers reveal different neural coding of information.
+Said,Christopher P;Moore,Christopher D;Norman,Kenneth A;Haxby,James V;Todorov,Alexander;(2010)Graded representations of emotional expressions in the left superior temporal sulcus.
+Kahnt,Thorsten;Heinzle,Jakob;Park,Soyoung Q;Haynes,John-Dylan;(2010)The neural code of reward anticipation in human orbitofrontal cortex.
+Keightley,Michelle L;Chiew,Kimberly S;Anderson,John A E;Grady,Cheryl L;(2011)Neural correlates of recognition memory for emotional faces and scenes.
+Ryali,Srikanth;Supekar,Kaustubh;Abrams,Daniel A;Menon,Vinod;(2010)Sparse logistic regression for whole-brain classification of fMRI data.
+Hussar,Cory R;Pasternak,Tatiana;(2009)Flexibility of sensory representations in prefrontal cortex depends on cell type.
+de Vries,Meinou H;Barth,Andre C R;Maiworm,Sandra;Knecht,Stefan;Zwitserlood,Pienie;Floel,Agnes;(2010)Electrical stimulation of Broca's area enhances implicit learning of an artificial grammar.
+Marquand,Andre;Howard,Matthew;Brammer,Michael;Chu,Carlton;Coen,Steven;Mourao-Miranda,Janaina;(2010)Quantitative prediction of subjective pain intensity from whole-brain fMRI data using Gaussian processes.
+Esterman,Michael;Chiu,Yu-Chin;Tamber-Rosenau,Benjamin J;Yantis,Steven;(2009)Decoding cognitive control in human parietal cortex.
+Aparicio,Mario;Demont,Elisabeth;Gounot,Daniel;Metz-Lutz,Marie-Noelle;(2009)Is there an alternative cerebral network associated with enhanced phonological processing in deaf speech-users? An exceptional case.
+Ortigue,Stephanie;Thompson,James C;Parasuraman,Raja;Grafton,Scott T;(2009)Spatio-temporal dynamics of human intention understanding in temporo-parietal cortex: a combined EEG/fMRI repetition suppression paradigm.
+Rodriguez,Paul F;(2010)Neural decoding of goal locations in spatial navigation in humans with fMRI.
+Spreng,R Nathan;Grady,Cheryl L;(2010)Patterns of brain activity supporting autobiographical memory, prospection, and theory of mind, and their relationship to the default mode network.
+Obleser,Jonas;Kotz,Sonja A;(2010)Expectancy constraints in degraded speech modulate the language comprehension network.
+Driver,Jon;Blankenburg,Felix;Bestmann,Sven;Vanduffel,Wim;Ruff,Christian C;(2009)Concurrent brain-stimulation and neuroimaging for studies of cognition.
+Schmitz,Taylor W;De Rosa,Eve;Anderson,Adam K;(2009)Opposing influences of affective state valence on visual cortical encoding.
+Ponseti,Jorge;Granert,Oliver;Jansen,Olav;Wolff,Stephan;Mehdorn,Hubertus;Bosinski,Hartmut;Siebner,Hartwig;(2009)Assessment of sexual orientation using the hemodynamic brain response to visual sexual stimuli.
+Rauschecker,Josef P;Scott,Sophie K;(2009)Maps and streams in the auditory cortex: nonhuman primates illuminate human speech processing.
+Milton,Fraser;Wills,Andy J;Hodgson,Timothy L;(2009)The neural basis of overall similarity and single-dimension sorting.
+van Kuyck,Kris;Gerard,Nathalie;Van Laere,Koen;Casteels,Cindy;Pieters,Guido;Gabriels,Loes;Nuttin,Bart;(2009)Towards a neurocircuitry in anorexia nervosa: evidence from functional neuroimaging studies.
+Cornelissen,Piers L;Kringelbach,Morten L;Ellis,Andrew W;Whitney,Carol;Holliday,Ian E;Hansen,Peter C;(2009)Activation of the left inferior frontal gyrus in the first 200 ms of reading: evidence from magnetoencephalography (MEG).
+Harrison,Stephenie A;Tong,Frank;(2009)Decoding reveals the contents of visual working memory in early visual areas.
+Beauchamp,Michael S;Laconte,Stephen;Yasar,Nafi;(2009)Distributed representation of single touches in somatosensory and visual cortex.
+Ball,Tonio;Schulze-Bonhage,Andreas;Aertsen,Ad;Mehring,Carsten;(2009)Differential representation of arm movement direction in relation to cortical anatomy and function.
+Grosenick,Logan;Greer,Stephanie;Knutson,Brian;(2008)Interpretable classifiers for FMRI improve prediction of purchases.
+Bode,Stefan;Haynes,John-Dylan;(2009)Decoding sequential stages of task preparation in the human brain.
+Olbrich,Sebastian;Mulert,Christoph;Karch,Susanne;Trenner,Maja;Leicht,Gregor;Pogarell,Oliver;Hegerl,Ulrich;(2009)EEG-vigilance and BOLD effect during simultaneous EEG/fMRI measurement.
+Rolls,Edmund T;Grabenhorst,Fabian;Franco,Leonardo;(2009)Prediction of subjective affective state from brain activations.
+Meda,Shashwath A;Gelernter,Joel;Gruen,Jeffrey R;Calhoun,Vince D;Meng,Haiying;Cope,Natalie A;Pearlson,Godfrey D;(2008)Polymorphism of DCDC2 Reveals Differences in Cortical Morphology of Healthy Individuals-A Preliminary Voxel Based Morphometry Study.
+Toepel,Ulrike;Knebel,Jean-Francois;Hudry,Julie;le Coutre,Johannes;Murray,Micah M;(2009)The brain tracks the energetic value in food images.
+Leckman,James F;Bloch,Michael H;(2008)A developmental and evolutionary perspective on obsessive-compulsive disorder: whence and whither compulsive hoarding?
+Race,Elizabeth A;Shanker,Shanti;Wagner,Anthony D;(2009)Neural priming in human frontal cortex: multiple forms of learning reduce demands on the prefrontal executive system.
+Levy,Jonathan;Pernet,Cyril;Treserras,Sebastien;Boulanouar,Kader;Berry,Isabelle;Aubry,Florent;Demonet,Jean-Francois;Celsis,Pierre;(2008)Piecemeal recruitment of left-lateralized brain areas during reading: a spatio-functional account.
+Lewis-Peacock,Jarrod A;Postle,Bradley R;(2008)Temporary activation of long-term memory supports working memory.
+Ethofer,Thomas;Kreifelts,Benjamin;Wiethoff,Sarah;Wolf,Jonathan;Grodd,Wolfgang;Vuilleumier,Patrik;Wildgruber,Dirk;(2009)Differential influences of emotion, task, and novelty on brain regions underlying the processing of speech melody.
+Mitchell,Rachel L C;Ross,Elliott D;(2008)fMRI evidence for the effect of verbal complexity on lateralisation of the neural response associated with decoding prosodic emotion.
+Udden,Julia;Folia,Vasiliki;Forkstam,Christian;Ingvar,Martin;Fernandez,Guillen;Overeem,Sebastiaan;van Elswijk,Gijs;Hagoort,Peter;Petersson,Karl Magnus;(2008)The inferior frontal cortex in artificial syntax processing: an rTMS study.
+Izycka-Swieszewska,Ewa;Majewska,Hanna;Szurowska,Edyta;Mazurkiewicz-Bedzinska,Maria;Drozynska,Elzbieta;(2008)Papillary glioneuronal tumour of the precentral gyrus.
+Han,Sanghoon;Huettel,Scott A;Dobbins,Ian G;(2009)Rule-dependent prefrontal cortex activity across episodic and perceptual decisions: an fMRI investigation of the criterial classification account.
+Cummine,Jacqueline;Borowsky,Ron;Vakorin,Vasily;Bird,Jeff;Sarty,Gordon;(2008)The relationship between naming reaction time and functional MRI parameters in Broca's area.
+Fridriksson,Julius;Moss,Joel;Davis,Ben;Baylis,Gordon C;Bonilha,Leonardo;Rorden,Chris;(2008)Motor speech perception modulates the cortical language areas.
+Mahadevan,Anita;Vaidya,Sunil R;Wairagkar,Niteen S;Khedekar,Deepika;Kovoor,Jerry M E;Santosh,Vani;Yasha,T C;Satishchandra,P;Ravi,V;Shankar,S K;(2008)Case of fulminant-SSPE associated with measles genotype D7 from India: an autopsy study.
+Horner,A J;Henson,R N;(2008)Priming, response learning and repetition suppression.
+Fokin,V A;Shelepin,Iu E;Kharauzov,A K;Trufanov,G E;Sevost'ianov,A V;Pronin,S V;Koskin,S A;(2007)[Localization of human brain areas activated for chaotic and ordered pattern perception].
+Li,Sheng;Ostwald,Dirk;Giese,Martin;Kourtzi,Zoe;(2007)Flexible coding for categorical decisions in the human brain.
+Billington,Jac;Baron-Cohen,Simon;Bor,Daniel;(2008)Systemizing influences attentional processes during the Navon task: an fMRI study.
+Borowsky,Ron;Esopenko,Carrie;Cummine,Jacqueline;Sarty,Gordon E;(2007)Neural representations of visual words and objects: a functional MRI study on the modularity of reading and object processing.
+Sachs,Olga;Weis,Susanne;Krings,Timo;Huber,Walter;Kircher,Tilo;(2008)Categorical and thematic knowledge representation in the brain: neural correlates of taxonomic and thematic conceptual relations.
+Wang,Jiongjiong;Korczykowski,Marc;Rao,Hengyi;Fan,Yong;Pluta,John;Gur,Ruben C;McEwen,Bruce S;Detre,John A;(2007)Gender difference in neural response to psychological stress.
+Jausovec,Norbert;Jausovec,Ksenija;(2007)Personality, gender and brain oscillations.
+Eickhoff,Simon B;Paus,Tomas;Caspers,Svenja;Grosbras,Marie-Helene;Evans,Alan C;Zilles,Karl;Amunts,Katrin;(2007)Assignment of functional activations to probabilistic cytoarchitectonic areas revisited.
+Mitchell,Rachel L C;(2007)fMRI delineation of working memory for emotional prosody in the brain: commonalities with the lexico-semantic emotion network.
+Duchesnay,Edouard;Cachia,Arnaud;Roche,Alexis;Riviere,Denis;Cointepas,Yann;Papadopoulos-Orfanos,Dimitri;Zilbovicius,Monica;Martinot,Jean-Luc;Regis,Jean;Mangin,Jean-Francois;(2007)Classification based on cortical folding patterns.
+Schacter,Daniel L;Wig,Gagan S;Stevens,W Dale;(2007)Reductions in cortical activity during priming.
+Channon,Shelley;Rule,Andrea;Maudgil,David;Martinos,Marina;Pellijeff,Asa;Frankl,Jessica;Drury,Helena;Shieff,Colin;(2007)Interpretation of mentalistic actions and sarcastic remarks: effects of frontal and posterior lesions on mentalising.
+Haynes,John-Dylan;Sakai,Katsuyuki;Rees,Geraint;Gilbert,Sam;Frith,Chris;Passingham,Richard E;(2007)Reading hidden intentions in the human brain.
+Mitchell,Rachel L C;(2006)How does the brain mediate interpretation of incongruent auditory emotions? The neural response to prosody in the presence of conflicting lexico-semantic cues.
+Hampton,Alan N;O'doherty,John P;(2007)Decoding the neural substrates of reward-related decision making with functional MRI.
+Downing,Paul E;Wiggett,Alison J;Peelen,Marius V;(2007)Functional magnetic resonance imaging investigation of overlapping lateral occipitotemporal activations using multi-voxel pattern analysis.
+Aubert-Broche,Berengere;Griffin,Mark;Pike,G Bruce;Evans,Alan C;Collins,D Louis;(2006)Twenty new digital brain phantoms for creation of validation image data bases.
+Mourao-Miranda,Janaina;Reynaud,Emanuelle;McGlone,Francis;Calvert,Gemma;Brammer,Michael;(2006)The impact of temporal compression and space selection on SVM analysis of single-subject and multi-subject fMRI data.
+Borowsky,Ron;Cummine,Jacqueline;Owen,William J;Friesen,Chris Kelland;Shih,Francis;Sarty,Gordon E;(2006)FMRI of ventral and dorsal processing streams in basic reading processes: insular sensitivity to phonology.
+Gilbert,Sam J;Spengler,Stephanie;Simons,Jon S;Steele,J Douglas;Lawrie,Stephen M;Frith,Christopher D;Burgess,Paul W;(2006)Functional specialization within rostral prefrontal cortex (area 10): a meta-analysis.
+Forkstam,Christian;Hagoort,Peter;Fernandez,Guillen;Ingvar,Martin;Petersson,Karl Magnus;(2006)Neural correlates of artificial syntactic structure classification.
+Xia,Yan;Turken,U;Whitfield-Gabrieli,Susan L;Gabrieli,John D;(2005)Knowledge-based classification of neuronal fibers in entire brain.
+Beaucousin,Virginie;Lacheret,Anne;Turbelin,Marie-Renee;Morel,Michel;Mazoyer,Bernard;Tzourio-Mazoyer,Nathalie;(2007)FMRI study of emotional speech comprehension.
+Yago,Elena;Ishai,Alumit;(2006)Recognition memory is modulated by visual similarity.
+Little,Deborah M;Shin,Silvia S;Sisco,Shannon M;Thulborn,Keith R;(2006)Event-related fMRI of category learning: differences in classification and feedback networks.
+Little,Deborah M;Thulborn,Keith R;(2006)Prototype-distortion category learning: a two-phase learning process across a distributed network.
+Azim,Eiman;Mobbs,Dean;Jo,Booil;Menon,Vinod;Reiss,Allan L;(2005)Sex differences in brain activation elicited by humor.
+Wager,Tor D;Jonides,John;Smith,Edward E;Nichols,Thomas E;(2005)Toward a taxonomy of attention shifting: individual differences in fMRI during multiple shift types.
+Langleben,Daniel D;Loughead,James W;Bilker,Warren B;Ruparel,Kosha;Childress,Anna Rose;Busch,Samantha I;Gur,Ruben C;(2005)Telling truth from lie in individual subjects with fast event-related fMRI.
+Wig,Gagan S;Grafton,Scott T;Demos,Kathryn E;Kelley,William M;(2005)Reductions in neural activity underlie behavioral components of repetition priming.
+Beauchamp,Michael S;(2005)Statistical criteria in FMRI studies of multisensory integration.
+Bitan,Tali;Manor,David;Morocz,Istvan A;Karni,Avi;(2005)Effects of alphabeticality, practice and type of instruction on reading an artificial script: an fMRI study.
+Dietz,Nicole A E;Jones,Karen M;Gareau,Lynn;Zeffiro,Thomas A;Eden,Guinevere F;(2005)Phonological decoding involves left posterior fusiform gyrus.
+LaConte,Stephen;Strother,Stephen;Cherkassky,Vladimir;Anderson,Jon;Hu,Xiaoping;(2005)Support vector machines for temporal classification of block design fMRI data.
+Roesch,Matthew R;Olson,Carl R;(2005)Neuronal activity dependent on anticipated and elapsed delay in macaque prefrontal cortex, frontal and supplementary eye fields, and premotor cortex.
+Vogt,Brent A;Vogt,Leslie;Farber,Nuri B;Bush,George;(2005)Architecture and neurocytology of monkey cingulate gyrus.
+Seger,Carol A;Cincotta,Corinna M;(2005)The roles of the caudate nucleus in human classification learning.
+Prince,Steven E;Daselaar,Sander M;Cabeza,Roberto;(2005)Neural correlates of relational memory: successful encoding and retrieval of semantic and perceptual associations.
+Poldrack,Russell A;Rodriguez,Paul;(2004)How do memory systems interact? Evidence from human classification learning.
+Rolls,Edmund T;(2004)The functions of the orbitofrontal cortex.
+Aron,A R;Shohamy,D;Clark,J;Myers,C;Gluck,M A;Poldrack,R A;(2004)Human midbrain sensitivity to cognitive feedback and uncertainty during classification learning.
+Dobbins,Ian G;Schnyer,David M;Verfaellie,Mieke;Schacter,Daniel L;(2004)Cortical activity reductions during repetition priming can result from rapid response learning.
+Araujo,Ivan E de;(2003)[Taste representation in the human cortex and the central control of appetite].
+Raine,Adrian;Ishikawa,Sharon S;Arce,Estibaliz;Lencz,Todd;Knuth,Kevin H;Bihrle,Susan;LaCasse,Lori;Colletti,Patrick;(2004)Hippocampal structural asymmetry in unsuccessful psychopaths.
+Speer,Nicole K;Jacoby,Larry L;Braver,Todd S;(2003)Strategy-dependent changes in memory: effects on behavior and brain activity.
+Fossati,Philippe;Hevenor,Stephanie J;Graham,Simon J;Grady,Cheryl;Keightley,Michelle L;Craik,Fergus;Mayberg,Helen;(2003)In search of the emotional self: an fMRI study using positive and negative emotional words.
+Sakai,Katsuyuki;(2003)Reactivation of memory: role of medial temporal lobe and prefrontal cortex.
+Kobayashi,Zen;Tanaka,Hiroaki;Tao,Osamu;Shiraishi,Atushi;Yokota,Takanori;Kanda,Takashi;Mizusawa,Hidehiro;Yamaguchi,Hiroaki;Hirota,Nobuo;(2003)[Multiple cerebral embolism caused by a patent foramen ovale and a uterine myoma].
+Hillemanns,Andreas;Kortmann,Rolf-Dieter;Herrlinger,Ulrich;Skalej,Martin;Krapf,Hilmar;(2003)Recurrent delayed brain hemorrhage over years after irradiation and chemotherapy for astrocytoma.
+Ganis,G;Kosslyn,S M;Stose,S;Thompson,W L;Yurgelun-Todd,D A;(2003)Neural correlates of different types of deception: an fMRI investigation.
+Piazza,Manuela;Giacomini,Eric;Le Bihan,Denis;Dehaene,Stanislas;(2003)Single-trial classification of parallel pre-attentive and serial attentive processes using functional magnetic resonance imaging.
+Tracy,J I;Mohamed,F;Faro,S;Pinus,A;Tiver,R;Harvan,J;Bloomer,C;Pyrros,A;Madi,S;(2003)Differential brain responses when applying criterion attribute versus family resemblance rule learning.
+Puce,Aina;Perrett,David;(2003)Electrophysiology and brain imaging of biological motion.
+d'Avossa,Giovanni;Shulman,Gordon L;Corbetta,Maurizio;(2003)Identification of cerebral networks by classification of the shape of BOLD responses.
+Abe,Seiji;Takagi,Kenjiro;Yamamoto,Tatsuo;Okuhata,Yoshitaka;Kato,Toshinori;(2003)Assessment of cortical gyrus and sulcus formation using MR images in normal fetuses.
+Sullivan,Edith V;Harding,Antony J;Pentney,Roberta;Dlugos,Cynthia;Martin,Peter R;Parks,Mitchell H;Desmond,John E;Chen,S H Annabel;Pryor,Michelle R;De Rosa,Eve;Pfefferbaum,Adolf;(2003)Disruption of frontocerebellar circuitry and function in alcoholism.
+Seger,Carol A;Cincotta,Corinna M;(2002)Striatal activity in concept learning.
+Booth,James R;Burman,Douglas D;Meyer,Joel R;Gitelman,Darren R;Parrish,Todd B;Mesulam,M Marsel;(2002)Modality independence of word comprehension.
+Vogels,Rufin;Sary,Gyula;Dupont,Patrick;Orban,Guy A;(2002)Human brain regions involved in visual categorization.
+Adams,Reginald B;Janata,Petr;(2002)A comparison of neural circuits underlying auditory and visual object categorization.
+Collette,Fabienne;Van der Linden,Martial;(2002)Brain imaging of the central executive component of working memory.
+Braver,Todd S;Bongiolatti,Susan R;(2002)The role of frontopolar cortex in subgoal processing during working memory.
+Hund-Georgiadis,M;Lex,U;von Cramon,D Y;(2001)Language dominance assessment by means of fMRI: contributions from task design, performance, and stimulus modality.
+Koutstaal,W;Wagner,A D;Rotte,M;Maril,A;Buckner,R L;Schacter,D L;(2001)Perceptual specificity in visual object priming: functional magnetic resonance imaging evidence for a laterality difference in fusiform cortex.
